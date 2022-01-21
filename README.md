@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 Salutations!
-Here's a sophomore of Nanjing University, majoring in Software Engineering.
+### Here's a sophomore from Nanjing University, majoring in Software Engineering. ###
 
 
 
