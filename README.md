@@ -24,10 +24,10 @@ Here are some ideas to get you started:
 ## ㊙️ Something about me...
 ### 👻 Languages
 
-![Java](https://img.shields.io/badge/-Java-white?style=flat&logo=java&logoColor=007396)
-![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=3776AB)
-![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B&logoColor=red)
-![C](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=blue)
+![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
 
