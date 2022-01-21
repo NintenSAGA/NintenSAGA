@@ -58,3 +58,5 @@ Also have these consoles:
 ![3DS](https://img.shields.io/badge/-NDS-white?style=flat&logo=nintendo&logoColor=8B8B8B)
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true)
