@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ### Here's a sophomore from Nanjing University, majoring in Software Engineering. ###
 
 
+![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true&theme=buefy)
 
 
 
@@ -27,6 +28,8 @@ Here are some ideas to get you started:
 ![Python](https://img.shields.io/badge/-Python-white?style=flat&logo=python&logoColor=3776AB)
 ![C++](https://img.shields.io/badge/-C++-white?style=flat&logo=c%2B%2B&logoColor=red)
 ![C](https://img.shields.io/badge/-white?style=flat&logo=c&logoColor=blue)
+
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
 
 ### 📡 Tools
 
@@ -59,4 +62,3 @@ Also have these consoles:
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true)
