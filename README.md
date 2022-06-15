@@ -65,17 +65,17 @@ Also have these consoles:
 ### 🤔 In 2022, I'm learning...
 
 - [x] Computer Networking
-  - [x] `SU, CS144, Sponge Lab`
+  - [x] `SU CS144, Sponge Lab`
 - [x] Database Management System
-  - [ ] `CMU, 15-445, Bustub[1/4]`
+  - [ ] `CMU 15-445, Bustub[1/4]`
 - [x] The C++ Programing Language
 - [x] Software Engineering and Computation II
 - [x] Operating System
-  - [ ] `NJU, JYY, OS Mini Lab[5/5], OS Lab[2/4]`  
+  - [ ] `NJU JYY, OS Mini Lab[5/5] & OS Lab[2/4]`  
 
 #### Scheduling...
 
 - [ ] Distributed System
-  - [ ] `MIT 6.824 Golab`
+  - [ ] `MIT 6.824, Golab`
 - [ ] Principles and Techniques of Compilers
 
