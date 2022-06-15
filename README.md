@@ -19,21 +19,21 @@ Here are some ideas to get you started:
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true&theme=buefy)
 
-
-
 ## ㊙️ Something about me...
 ### 👻 Languages
 
-![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
+![Go](https://img.shields.io/badge/-Golang-087CFA?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
 
 ### 📡 Tools
 
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-6B57FF?style=flat&logo=IntelliJIDEA&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FE2857?style=flat&logo=IntelliJIDEA&logoColor=white)
+![GoLand](https://img.shields.io/badge/-GoLand-6B57FF?style=flat&logo=goland&logoColor=white)
 ![CLion](https://img.shields.io/badge/-CLion-087CFA?style=flat&logo=CLion&logoColor=white)
 ![Webstorm](https://img.shields.io/badge/-Webstorm-07C3F2?style=flat&logo=Webstorm&logoColor=white)
 ![Pycharm](https://img.shields.io/badge/-Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white)
@@ -61,4 +61,21 @@ Also have these consoles:
 ![3DS](https://img.shields.io/badge/-NDS-white?style=flat&logo=nintendo&logoColor=8B8B8B)
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
+
+### 🤔 In 2022, I'm learning...
+
+- [x] Computer Networking
+  - [x] `SU, CS144, Sponge Lab`
+- [x] Database Management System
+  - [ ] `CMU, 15-445, Bustub[1/4]`
+- [x] The C++ Programing Language
+- [x] Software Engineering and Computation II
+- [x] Operating System
+  - [ ] `NJU, JYY, OS Mini Lab[5/5], OS Lab[2/4]`  
+
+#### Scheduling...
+
+- [ ] Distributed System
+  - [ ] `MIT 6.824 Golab`
+- [ ] Principles and Techniques of Compilers
 
