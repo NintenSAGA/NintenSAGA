@@ -14,12 +14,15 @@ Here are some ideas to get you started:
 -->
 
 ## 🤯 Salutations!
-### Here's a sophomore from Nanjing University, majoring in Software Engineering. ###
 
+### Here's a sophomore from Nanjing University, majoring in Software Engineering.
+
+Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.site/Index-f7894b35b00e4a14895c9a2735d3cee0)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true&theme=buefy)
 
 ## ㊙️ Something about me...
+
 ### 👻 Languages
 
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
@@ -39,8 +42,6 @@ Here are some ideas to get you started:
 ![Pycharm](https://img.shields.io/badge/-Pycharm-21D789?style=flat&logo=Pycharm&logoColor=white)
 ![Visual_Studio_Code](https://img.shields.io/badge/-Visual_Studio_Code-white?style=flat&logo=VisualStudioCode&logoColor=087CFA)
 
-
-
 ### 💻 Equipments
 
 ![MacBook Pro 13’ 2020](https://img.shields.io/badge/-MacBook_Pro_13’_2020-white?style=flat&logo=apple&logoColor=7D7D7D)
@@ -49,6 +50,8 @@ Here are some ideas to get you started:
 ![Galaxy Tab S7](https://img.shields.io/badge/-Galaxy_Tab_S7-grey?style=flat&logo=samsung&logoColor=white)
 
 ### 👾 Games
+
+Here's my [Game Collection](https://nintensaga.notion.site/937f42eda5a24effb3833b0a550e3a8f?v=5ad6a4ae92044775a1872b705ccae972)
 
 Now playing:
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo_Switch-E60012?style=flat&logo=NintendoSwitch&logoColor=)
@@ -62,20 +65,24 @@ Also have these consoles:
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
 
-### 🤔 In 2022, I'm learning...
+## 🤔 In 2022, I'm learning...
 
-- [x] Computer Networking
-  - [x] `SU CS144, Sponge Lab`
-- [x] Database Management System
-  - [ ] `CMU 15-445, Bustub[1/4]`
-- [x] The C++ Programing Language
-- [x] Software Engineering and Computation II
-- [x] Operating System
-  - [ ] `NJU JYY, OS Mini Lab[5/5] & OS Lab[2/4]`  
+| Subject                                 | Provider | Course ID | Lab / Project        | Progress                   | Course Quality |
+| --------------------------------------- | -------- | --------- | ---------- | -------------------------- | -------------- |
+| Computer Networking                     | SU       | CS144     | Sponge Lab | ✅                         | Good           |
+| The C++ Programming Language            | NJU SE   |     ZT, PMX      |            | ✅                         | Normal         |
+| Software Engineering and Computation II | NJU SE   |    67       |            | ✅                         | WTF...         |
+| Databse Management                      | NJU SE   |    BJ       |            | ✅                         | Joke           |
+| Internet Computing                      | NJU SE   |    6F       |      [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java)      | ✅                         | Nonsense       |
+| Operating System                        | NJU CS   | JYY       | OS Lab     | `MLab[5/5]`<br/>`Lab[2/4]` | Masterpiece    |
+| Database Management System              | CMU      | 15-445    | Bustub     | `Bustub[1/4]`              |
+| Distributed System                      | MIT      | 6.824     | Golab      | `Golab[0/4]`               |
 
-#### Scheduling...
+### Scheduling...
 
-- [ ] Distributed System
-  - [ ] `MIT 6.824, Golab`
-- [ ] Principles and Techniques of Compilers
-
+| Subject                              | Provider    | Course ID | Time |
+| ------------------------------------ | ----------- | --------- | ---- |
+| Compiler                             | NJU SE / CS | TBD       | TBD  |
+| Software Analysis                    | NJU CS      |    TT, LY       | 3A   |
+| Concurrency: Algorithms and Theories | NJU CS      |     LHJ      | 3A   |
+| Computer Graphics                    | TBD         | TBD       | TBD  |
