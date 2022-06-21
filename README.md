@@ -70,10 +70,10 @@ Also have these consoles:
 | Subject                                 | Provider | Course ID | Lab / Project        | Progress                   | Course Quality |
 | --------------------------------------- | -------- | --------- | ---------- | -------------------------- | -------------- |
 | Computer Networking                     | SU       | CS144     | Sponge Lab | ✅                         | Good           |
-| The C++ Programming Language            | NJU SE   |     ZT, PMX      |            | ✅                         | Normal         |
-| Software Engineering and Computation II | NJU SE   |    67       |            | ✅                         | WTF...         |
-| Databse Management                      | NJU SE   |    BJ       |            | ✅                         | Joke           |
-| Internet Computing                      | NJU SE   |    6F       |      [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java)      | ✅                         | Nonsense       |
+| The C++ Programming Language            | NJU SE   |        |            | ✅                         | Normal         |
+| Software Engineering and Computation II | NJU SE   |   |            | ✅                         | WTF...         |
+| Databse Management                      | NJU SE   |   |            | ✅                         | Joke           |
+| Internet Computing                      | NJU SE   |   |      [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java)      | ✅                         | Nonsense       |
 | Operating System                        | NJU CS   | JYY       | OS Lab     | `MLab[5/5]`<br/>`Lab[2/4]` | Masterpiece    |
 | Database Management System              | CMU      | 15-445    | Bustub     | `Bustub[1/4]`              |
 | Distributed System                      | MIT      | 6.824     | Golab      | `Golab[0/4]`               |
@@ -83,6 +83,6 @@ Also have these consoles:
 | Subject                              | Provider    | Course ID | Time |
 | ------------------------------------ | ----------- | --------- | ---- |
 | Compiler                             | NJU SE / CS | TBD       | TBD  |
-| Software Analysis                    | NJU CS      |    TT, LY       | 3A   |
-| Concurrency: Algorithms and Theories | NJU CS      |     LHJ      | 3A   |
+| Software Analysis                    | NJU CS      |           | 3A   |
+| Concurrency: Algorithms and Theories | NJU CS      |        | 3A   |
 | Computer Graphics                    | TBD         | TBD       | TBD  |
