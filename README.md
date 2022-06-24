@@ -74,7 +74,7 @@ Also have these consoles:
 | Software Engineering and Computation II | NJU SE   |   |            | ✅                         | WTF...         |
 | Databse Management                      | NJU SE   |   |            | ✅                         | Joke           |
 | Internet Computing                      | NJU SE   |   |      [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java)      | ✅                         | Nonsense       |
-| Operating System                        | NJU CS   | JYY       | OS Lab     | `MLab[5/5]`<br/>`Lab[2/4]` | Masterpiece    |
+| Operating System                        | NJU CS   | JYY       | OS Lab     | `MLab[5/5]`<br/>`Lab[3/4]` | Masterpiece    |
 | Database Management System              | CMU      | 15-445    | Bustub     | `Bustub[1/4]`              |
 | Distributed System                      | MIT      | 6.824     | Golab      | `Golab[0/4]`               |
 
