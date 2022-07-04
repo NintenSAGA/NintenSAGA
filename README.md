@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## 🤯 Salutations!
 
-### Here's a sophomore from Nanjing University, majoring in Software Engineering.
+### Here's a junior from Nanjing University, majoring in Software Engineering.
 
 Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.site/Index-f7894b35b00e4a14895c9a2735d3cee0)
 
