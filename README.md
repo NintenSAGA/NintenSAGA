@@ -32,6 +32,11 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
 
 <!--START_SECTION:waka-->
+
+```text
+No activity tracked
+```
+
 <!--END_SECTION:waka-->
 
 ![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
