@@ -34,7 +34,11 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 <!--START_SECTION:waka-->
 
 ```text
-C++   5 hrs 11 mins   █████████████████████████   100.00 %
+From: 21 July 2021 - To: 21 July 2022
+
+Total Time: 5 hrs 11 mins
+
+C++                   █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
