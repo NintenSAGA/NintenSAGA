@@ -39,8 +39,6 @@ C++   5 hrs 11 mins   ███████████████████�
 
 <!--END_SECTION:waka-->
 
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
-
 ### 📡 Tools
 
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-FE2857?style=flat&logo=IntelliJIDEA&logoColor=white)
