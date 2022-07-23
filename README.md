@@ -34,11 +34,16 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 <!--START_SECTION:waka-->
 
 ```text
-From: 21 July 2021 - To: 21 July 2022
+From: 15 July 2022 - To: 22 July 2022
 
-Total Time: 5 hrs 11 mins
+Total Time: 8 hrs 51 mins
 
-C++                   █████████████████████████   100.00 %
+C++                              ██████████████████████▓░░   90.40 %
+C                                █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 %
+Makefile                         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.11 %
+GitIgnore file                   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
+ObjectiveC                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.94 %
+Go                               ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
 ```
 
 <!--END_SECTION:waka-->
