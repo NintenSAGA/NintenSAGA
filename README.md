@@ -20,10 +20,11 @@ Here are some ideas to get you started:
 Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.site/Index-f7894b35b00e4a14895c9a2735d3cee0)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=NintenSAGA&show_icons=true&theme=buefy)
+![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
 
 ## ㊙️ Something about me...
 
-### 👻 Languages
+### 👻 Languages 
 
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
@@ -47,8 +48,6 @@ C                                ▓░░░░░░░░░░░░░░�
 ```
 
 <!--END_SECTION:waka-->
-
-![Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=NintenSAGA&layout=compact&theme=buefy)
 
 ### 📡 Tools
 
