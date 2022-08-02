@@ -91,7 +91,7 @@ Also have these consoles:
 | Database Management                     | NJU SE     |                                                                       | ✅       | 🙄           |
 | Internet Computing                      | NJU SE     | [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java) | ✅       | 🤮       |
 | Operating System                        | NJU CS JYY | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]`        | ✅ | 🤩    |
-| Intro to Database Systems               | CMU 15-445 | `Bustub[3/4]`                                                        |          |🤩|
+| Intro to Database Systems               | CMU 15-445 | `Bustub[4/4]`                                                        |    ✅      |🤩|
 | Distributed System                      | MIT 6.824  | `Golab[0/4]`                                                          |          ||
 
 ### Scheduling...
