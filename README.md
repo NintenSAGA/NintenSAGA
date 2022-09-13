@@ -92,14 +92,7 @@ Also have these consoles:
 | Internet Computing                      | NJU SE     | [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java) | ✅       | 🤮       |
 | Operating System                        | NJU CS JYY | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]`        | ✅ | 🤩    |
 | Intro to Database Systems               | CMU 15-445 | `Bustub[4/4]`                                                        |    ✅      |🤩|
-| Distributed System                      | MIT 6.824  | `Golab[1/4]`                                                          |          ||
-
-### Scheduling...
-
-| Course                               | Provider        | Time |
-| ------------------------------------ | --------------- | ---- |
-| Advanced Database Systems            | CMU 15-721      | SV   |
-| Compiler                             | NJU SE / CS TBD | TBD  |
-| Software Analysis                    | NJU CS          | 3A   |
-| Concurrency: Algorithms and Theories | NJU CS          | 3A   |
-| Computer Graphics                    | TBD TBD         | TBD  |
+| Distributed System                      | MIT 6.824  | `Golab[2B/4]`                                                          |          ||
+| Software Analysis                    | NJU CS          |    | |
+| Concurrency: Algorithms and Theories | NJU CS          |    | |
+| Formal Languages and Automata                     | NJU CS         |   | |
