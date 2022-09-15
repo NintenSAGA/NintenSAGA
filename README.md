@@ -35,16 +35,16 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 <!--START_SECTION:waka-->
 
 ```text
-From: 12 March 2022 - To: 10 September 2022
+From: 16 March 2022 - To: 14 September 2022
 
-Total Time: 87 hrs 35 mins
+Total Time: 93 hrs 13 mins
 
-Go                               ██████████████░░░░░░░░░░░   56.34 %
-C++                              █████▓░░░░░░░░░░░░░░░░░░░   22.42 %
-Python                           ██░░░░░░░░░░░░░░░░░░░░░░░   08.19 %
-Makefile                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.02 %
-Java                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.97 %
-Bash                             ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Go                               ██████████████░░░░░░░░░░░   55.34 %
+C++                              █████▒░░░░░░░░░░░░░░░░░░░   21.07 %
+Python                           ██░░░░░░░░░░░░░░░░░░░░░░░   07.78 %
+Text                             █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Makefile                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.84 %
+Java                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
