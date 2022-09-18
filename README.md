@@ -24,7 +24,7 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 
 ## ㊙️ Something about me...
 
-### 👻 Languages 
+### 👻 Languages
 
 ![Java](https://img.shields.io/badge/-Java-FC801D?style=flat&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/-C++-FE2857?style=flat&logo=c%2B%2B&logoColor=white)
@@ -83,16 +83,12 @@ Also have these consoles:
 
 ## 🤔 In 2022, I'm learning...
 
-| Course                                  | Provider   | Lab / Project                                                         | Progress | Course Quality |
-| --------------------------------------- | ---------- | --------------------------------------------------------------------- | -------- | -------------- |
-| Computer Networking                     | SU CS144   | `Sponge Lab[7/7]`                                                            | ✅       | 😃           |
-| The C++ Programming Language            | NJU SE     |                                                                       | ✅       | 😀         |
-| Software Engineering and Computation II | NJU SE     |                                                                       | ✅       | 😬         |
-| Database Management                     | NJU SE     |                                                                       | ✅       | 🙄           |
-| Internet Computing                      | NJU SE     | [HTTP C/S](https://github.com/NintenSAGA/HTTP-Client-Server-for-Java) | ✅       | 🤮       |
-| Operating System                        | NJU CS JYY | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]`        | ✅ | 🤩    |
-| Intro to Database Systems               | CMU 15-445 | `Bustub[4/4]`                                                        |    ✅      |🤩|
-| Distributed System                      | MIT 6.824  | `Golab[2C/4]`                                                          |          ||
-| Software Analysis                    | NJU CS          |    | |
-| Concurrency: Algorithms and Theories | NJU CS          |    | |
-| Formal Languages and Automata                     | NJU CS         |   | |
+| Course                                       | Lab / Project                        | Progress |
+| -------------------------------------------- | ------------------------------------ | -------- |
+| `SU CS144` Computer Networking               | `Sponge Lab[7/7]`                    | ✅       |
+| `NJUCS JYY` Operating System                 | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
+| `CMU 15-445` Intro to Database Systems       | `Bustub[4/4]`                        | ✅       |
+| `MIT 6.824` Distributed System               | `Golab[2C/4]`                        |          |
+| `NJUCS` Static Program Analysis              | `Tai-e A[ /8]`                       |          |
+| `NJUCS` Concurrency: Algorithms and Theories |                                      |          |
+| `NJUCS` Formal Languages and Automata        |                                      |          |
