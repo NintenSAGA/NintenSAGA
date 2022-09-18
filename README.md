@@ -88,7 +88,7 @@ Also have these consoles:
 | `SU CS144`, Computer Networking, Fall 2021              | `Sponge Lab[7/7]`                    | ✅       |
 | `NJUCS JYY`, Operating System, Spring 2022                 | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
 | `CMU 15-445`, Intro to Database Systems, Fall 2021       | `Bustub[4/4]`                        | ✅       |
-| `MIT 6.824`, Distributed System, Spring 2022               | `Golab[2C/4]`                        |          |
+| `MIT 6.824`, Distributed System, Spring 2022               | `Golab[2C/4B]`                        |          |
 | `NJUCS`, Static Program Analysis, Fall 2022              | `Tai-e A[ /8]`                       |          |
 | `NJUCS`, Concurrency: Algorithms and Theories, Fall 2022 |                                      |          |
 | `NJUCS` ,Formal Languages and Automata, Fall 2022        |                                      |          |
