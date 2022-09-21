@@ -80,12 +80,12 @@ Also have these consoles:
 
 ## 🤔 In 2022, I'm learning...
 
-| Course                                       | Lab / Project                        | Progress |
-| -------------------------------------------- | ------------------------------------ | -------- |
-| `SU CS144`, ***Computer Networking***, Fall 2021        | `Sponge Lab[7/7]`                    | ✅       |
-| `NJUCS JYY`, ***Operating System***, Spring 2022           | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
-| `CMU 15-445`, ***Intro to Database Systems***, Fall 2021 | `Bustub[4/4]`                        | ✅       |
-| `MIT 6.824`, ***Distributed System***, Spring 2022         | `Golab[2C/4B]`                        |          |
-| `NJUCS`, ***Static Program Analysis***, Fall 2022        | `Tai-e A[ /8]`                       |          |
-| `NJUCS`, ***Concurrency: Algorithms and Theories***, Fall 2022 |                                      |          |
-| `NJUCS`, ***Formal Languages and Automata***, Fall 2022  |                                      |          |
+| Course                                                         | Lab / Project                        | Progress |
+| -------------------------------------------------------------- | ------------------------------------ | -------- |
+| `SU CS144`, **_Computer Networking_**, Fall 2021               | `Sponge Lab[7/7]`                    | ✅       |
+| `NJUCS JYY`, **_Operating System_**, Spring 2022               | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
+| `CMU 15-445`, **_Intro to Database Systems_**, Fall 2021       | `Bustub[4/4]`                        | ✅       |
+| `MIT 6.824`, **_Distributed System_**, Spring 2022             | `MapReduce[1/1]`<br />`Raft[4/4]`<br />`KV-Raft[ /2]`<br />`ShardedKV[ /2]` |          |
+| `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[ /8]`                       |          |
+| `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |          |
+| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        |                                      |          |
