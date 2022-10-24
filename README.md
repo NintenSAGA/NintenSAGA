@@ -57,6 +57,7 @@ Other                            █░░░░░░░░░░░░░░�
 
 ### 💻 Equipments
 
+![MacBook Pro 14’ 2021](https://img.shields.io/badge/-MacBook_Pro_14’_2021-white?style=flat&logo=apple&logoColor=7D7D7D)
 ![MacBook Pro 13’ 2020](https://img.shields.io/badge/-MacBook_Pro_13’_2020-white?style=flat&logo=apple&logoColor=7D7D7D)
 ![iPad mini 2021](https://img.shields.io/badge/-iPad_mini_2021-6B57FF?style=flat&logo=apple&logoColor=white)
 ![Galaxy S20](https://img.shields.io/badge/-Galaxy_S20-white?style=flat&logo=samsung&logoColor=blue)
