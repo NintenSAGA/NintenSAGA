@@ -90,4 +90,4 @@ Also have these consoles:
 | `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[4/8]`                       |          |
 | `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |          |
 | `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        |                                      |          |
-| `NJUSE`, **_Compiler_**, Fall 2022 | Compiler Labs [0/8] |  |
+| `NJUSE`, **_Compiler_**, Fall 2022 | `Compiler Labs [0/8]` |  |
