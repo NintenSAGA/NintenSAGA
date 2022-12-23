@@ -87,7 +87,7 @@ Also have these consoles:
 | `NJUCS JYY`, **_Operating System_**, Spring 2022               | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
 | `CMU 15-445`, **_Intro to Database Systems_**, Fall 2021       | `Bustub[4/4]`                        | ✅       |
 | `MIT 6.824`, **_Distributed System_**, Spring 2022             | `MapReduce[1/1]`<br />`Raft[4/4]`<br />`KV-Raft[2/2]`<br />`ShardedKV[2/2] (with challenges)` | ✅         |
-| `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[7/8]`                       |          |
-| `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |          |
-| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Emulator`                                     |          |
-| `NJUSE`, **_Compiler_**, Fall 2022 | `Compiler Labs [2/8]` |  |
+| `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[8/8]`                       |     ✅     |
+| `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |    ✅      |
+| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Emulator`                                     |   ✅       |
+| `NJUSE`, **_Compiler_**, Fall 2022 | `Compiler Labs [3/8]` |  |
