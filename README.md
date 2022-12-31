@@ -89,5 +89,5 @@ Also have these consoles:
 | `MIT 6.824`, **_Distributed System_**, Spring 2022             | `MapReduce[1/1]`<br />`Raft[4/4]`<br />`KV-Raft[2/2]`<br />`ShardedKV[2/2] (with challenges)` | ✅         |
 | `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[8/8]`                       |     ✅     |
 | `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |    ✅      |
-| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Emulator`                                     |   ✅       |
+| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Simulator`                                     |   ✅       |
 | `NJUSE`, **_Compiler_**, Fall 2022 | `Compiler Labs [5/8]` |  |
