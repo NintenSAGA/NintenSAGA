@@ -32,7 +32,7 @@ Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.s
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 July 2022 - To: 25 January 2023
+From: 28 July 2022 - To: 26 January 2023
 
 Total Time: 370 hrs 36 mins
 
