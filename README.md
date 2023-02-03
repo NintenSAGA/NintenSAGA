@@ -83,7 +83,7 @@ Also have these consoles:
 
 Working on a backend project basing on Spring Cloud recently, and hence disappearing from GitHub for a moment.
 
-## 🤔 In 2022, I'm learning...
+## 🤔 Back in 2022, I was learning...
 
 | Course                                                         | Lab / Project                        | Progress |
 | -------------------------------------------------------------- | ------------------------------------ | -------- |
