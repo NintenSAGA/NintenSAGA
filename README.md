@@ -79,6 +79,10 @@ Also have these consoles:
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
 
+## 🧐 In 2023, I'm...
+
+Working on a backend project basing on Spring Cloud recently, and hence disappearing from GitHub for a moment.
+
 ## 🤔 In 2022, I'm learning...
 
 | Course                                                         | Lab / Project                        | Progress |
