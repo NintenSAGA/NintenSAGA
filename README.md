@@ -11,13 +11,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->~
 
 ## 🤯 Salutations!
 
 ### Here's a junior from Nanjing University, majoring in Software Engineering.
 
-Welcome to have a look at my study notes on [Notion](https://nintensaga.notion.site/Index-f7894b35b00e4a14895c9a2735d3cee0)
+My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 
 ## ㊙️ Something about me...
 
@@ -57,10 +57,12 @@ C++                                     █░░░░░░░░░░░░�
 
 ### 💻 Equipments
 
+![iPhone 14 Pro](https://img.shields.io/badge/-iPhone_14_Pro-655DBB?style=flat&logo=apple&logoColor=BFACE2)
 ![MacBook Pro 14’ 2021](https://img.shields.io/badge/-MacBook_Pro_14’_2021-white?style=flat&logo=apple&logoColor=7D7D7D)
-![MacBook Pro 13’ 2020](https://img.shields.io/badge/-MacBook_Pro_13’_2020-white?style=flat&logo=apple&logoColor=7D7D7D)
 ![iPad mini 2021](https://img.shields.io/badge/-iPad_mini_2021-6B57FF?style=flat&logo=apple&logoColor=white)
+
 ![Galaxy S20](https://img.shields.io/badge/-Galaxy_S20-white?style=flat&logo=samsung&logoColor=blue)
+![MacBook Pro 13’ 2020](https://img.shields.io/badge/-MacBook_Pro_13’_2020-white?style=flat&logo=apple&logoColor=7D7D7D)
 ![Galaxy Tab S7](https://img.shields.io/badge/-Galaxy_Tab_S7-grey?style=flat&logo=samsung&logoColor=white)
 
 ### 👾 Games
@@ -81,17 +83,24 @@ Also have these consoles:
 
 ## 🧐 In 2023, I'm...
 
-Working on a backend project basing on Spring Cloud recently, and hence disappearing from GitHub for a moment.
+| Course / Team                                                    | Project        | Brief                                                 |
+| ---------------------------------------------------------------- | -------------- | ----------------------------------------------------- |
+| WeCrush                                                          | `WeCrush-BE`   | A backend microservice project basing on Spring Cloud. |
+| `NJUSE`, **Software Engineering and Computing III**, Spring 2023 | `SentiSamoyed` | A refactored version of the classical _SentiStrength_. |
+| `NJUSE`, **Technologies of Database Development**, Spring 2023   | `MiniOB`       |                                                       |
+| `NJUCS`, **Computer Architecture**, Spring 2023                  |
 
 ## 🤔 Back in 2022, I was learning...
 
-| Course                                                         | Lab / Project                        | Progress |
-| -------------------------------------------------------------- | ------------------------------------ | -------- |
-| `SU CS144`, **_Computer Networking_**, Fall 2021               | `Sponge Lab[7/7]`                    | ✅       |
-| `NJUCS JYY`, **_Operating System_**, Spring 2022               | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]` | ✅       |
-| `CMU 15-445`, **_Intro to Database Systems_**, Fall 2021       | `Bustub[4/4]`                        | ✅       |
-| `MIT 6.824`, **_Distributed System_**, Spring 2022             | `MapReduce[1/1]`<br />`Raft[4/4]`<br />`KV-Raft[2/2]`<br />`ShardedKV[2/2] (with challenges)` | ✅         |
-| `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[8/8]`                       |     ✅     |
-| `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                      |    ✅      |
-| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Simulator`                                     |   ✅       |
-| `NJUSE`, **_Compiler_**, Fall 2022 | `Compiler Labs [8/8]` | ✅  |
+> ***Note***: Most of my projects are made private beacause of the requirement of academic integrity. Feel free to contact me if you have anything to ask.
+
+| Course                                                         | Lab / Project                                                                                 | Brief |
+| -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------- |
+| `SU CS144`, **_Computer Networking_**, Fall 2021               | `Sponge Lab[7/7]`                                                                             | Implementing the TCP Protocol.       |
+| `NJUCS JYY`, **_Operating System_**, Spring 2022               | `OS Lab[0 & 3/3]`<br/>`OS MLab[5/5]`                                                          | Building a simple OS basing on the *AbstractMachine* APIs. Supporting physical memory management, kernel multi-threading, syscall, and user process.        |
+| `CMU 15-445`, **_Intro to Database Systems_**, Fall 2021       | `Bustub[4/4]`                                                                                 | Implementing a Database kernel with Buffer Pool Manager, Extendible Hash Index, Query Execution, and Concurrency Control.       |
+| `MIT 6.824`, **_Distributed System_**, Spring 2022             | `1 - MapReduce[1/1]`<br />`2 - Raft[4/4]`<br />`3 - KV-Raft[2/2]`<br />`4 - ShardedKV[2/2] (with challenges)` | Implementing *the Raft Consensus Protocol* and then a sharded-KV store above it.       |
+| `NJUCS`, **_Static Program Analysis_**, Fall 2022              | `Tai-e A[8/8]`                                                                                | [Overview of Tai-e Assignments](http://tai-e.pascal-lab.net/en/intro/overview.html)       |
+| `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                                                                               |        |
+| `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Simulator`                                                                    | A simulator of the Turing Machine.       |
+| `NJUSE`, **_Compiler_**, Fall 2022                             | `Compiler Labs [8/8]`                                                                         | A compiler that can compile the [SysY](https://gitlab.eduxiji.net/nscscc/compiler2022/-/blob/master/SysY2022%E8%AF%AD%E8%A8%80%E5%AE%9A%E4%B9%89-V1.pdf) programming language to LLVM IR.       |
