@@ -81,7 +81,7 @@ Also have these consoles:
 ![PS4](https://img.shields.io/badge/-PS4-003791?style=flat&logo=Playstation&logoColor=white)
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
 
-## 🧐 In 2023, I'm...
+## 🧐 In 2023, I'm working on...
 
 | Course / Team                                                    | Project        | Brief                                                 |
 | ---------------------------------------------------------------- | -------------- | ----------------------------------------------------- |
@@ -92,7 +92,9 @@ Also have these consoles:
 
 ## 🤔 Back in 2022, I was learning...
 
-> ***Note***: Most of my projects are made private beacause of the requirement of academic integrity. Feel free to contact me if you have anything to ask.
+> ***Note***: Most of my projects are made private beacause of the requirement of academic integrity. 
+> 
+> Feel free to contact me if you have anything to ask.
 
 | Course                                                         | Lab / Project                                                                                 | Brief |
 | -------------------------------------------------------------- | --------------------------------------------------------------------------------------------- | -------- |
