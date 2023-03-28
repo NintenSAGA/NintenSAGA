@@ -32,16 +32,16 @@ My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 23 March 2023
+From: 24 September 2022 - To: 25 March 2023
 
-Total Time: 370 hrs 41 mins
+Total Time: 368 hrs 19 mins
 
-Java                                    ███████████░░░░░░░░░░░░░░   43.36 %
-Go                                      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.80 %
-C                                       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-C++                                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
-Python                                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-ObjectiveC                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
+Java                                    ██████████▓░░░░░░░░░░░░░░   42.83 %
+Go                                      ██▓░░░░░░░░░░░░░░░░░░░░░░   10.72 %
+C                                       ██▒░░░░░░░░░░░░░░░░░░░░░░   08.96 %
+C++                                     █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 %
+Python                                  █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
+ObjectiveC                              ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
