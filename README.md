@@ -88,7 +88,7 @@ Also have these consoles:
 | WeCrush                                                          | `WeCrush-BE`   | A backend microservice project basing on Spring Cloud. |
 | `NJUSE`, **Software Engineering and Computing III**, Spring 2023 | `SentiSamoyed` | A refactored version of the classical _SentiStrength_. |
 | `NJUSE`, **Technologies of Database Development**, Spring 2023   | `MiniOB`       |                                                       |
-| `NJUCS`, **Computer Architecture**, Spring 2023                  |
+| `NJUCS`, **Computer Architecture**, Spring 2023                  | `Gem5 Labs`
 
 ## 🤔 Back in 2022, I was learning...
 
