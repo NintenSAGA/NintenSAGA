@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 ### Here's a junior from Nanjing University, majoring in Software Engineering.
 
+> Now doing an internship in Alibaba.
+
 My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 
 ## ㊙️ Something about me...
@@ -84,10 +86,10 @@ Also have these consoles:
 
 | Course / Team                                                    | Project        | Brief                                                 |
 | ---------------------------------------------------------------- | -------------- | ----------------------------------------------------- |
-| WeCrush                                                          | `WeCrush-BE`   | A backend microservice project basing on Spring Cloud. |
-| `NJUSE`, **Software Engineering and Computing III**, Spring 2023 | `SentiSamoyed` | A refactored version of the classical _SentiStrength_. |
-| `NJUSE`, **Technologies of Database Development**, Spring 2023   | `MiniOB`       |                                                       |
-| `NJUCS`, **Computer Architecture**, Spring 2023                  | `Gem5 Labs`
+| [WeCrush](https://wecrush.cn/)                                                          | `WeCrush-BE`   | A backend microservice project basing on Spring Cloud. |
+| `NJUSE`, **_Software Engineering and Computing III_**, Spring 2023 | [`SentiSamoyed`](https://github.com/SentiSamoyed) | A refactored version of the classical _SentiStrength_. |
+| `NJUSE`, **_Technologies of Database Development_**, Spring 2023   | `MiniOB`       |                                                       |
+| `NJUCS`, **_Computer Architecture_**, Spring 2023                  | `Gem5 Labs`
 
 ## 🤔 Back in 2022, I was learning...
 
