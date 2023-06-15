@@ -66,6 +66,13 @@ C++                                        █░░░░░░░░░░░�
 ![MacBook Pro 13’ 2020](https://img.shields.io/badge/-MacBook_Pro_13’_2020-white?style=flat&logo=apple&logoColor=7D7D7D)
 ![Galaxy Tab S7](https://img.shields.io/badge/-Galaxy_Tab_S7-grey?style=flat&logo=samsung&logoColor=white)
 
+### 📷 Photography
+
+![Sony α7C](https://img.shields.io/badge/-Sony_α7C-grey?style=flat&logo=sony&logoColor=white)
+![Sony FE 24-105mm f/4 G OSS](https://img.shields.io/badge/-Sony_FE_24--105mm_f/4_G_OSS-white?style=flat&logo=lens&logoColor=black)
+![Sigma 65mm f/2 DG DN](https://img.shields.io/badge/-Sigma_65mm_f/2_DG_DN-white?style=flat&logo=lens&logoColor=black)
+![Tamron 70-180mm F/2.8 Di III VXD](https://img.shields.io/badge/-Tamron_70--180mm_F/2.8_Di_III_VXD-white?style=flat&logo=lens&logoColor=black)
+
 ### 👾 Games
 
 Here's my [Game Collection](https://nintensaga.notion.site/937f42eda5a24effb3833b0a550e3a8f?v=5ad6a4ae92044775a1872b705ccae972)
@@ -73,6 +80,7 @@ Here's my [Game Collection](https://nintensaga.notion.site/937f42eda5a24effb3833
 Now playing:
 ![Nintendo Switch](https://img.shields.io/badge/-Nintendo_Switch-E60012?style=flat&logo=NintendoSwitch&logoColor=)
 ![PS5](https://img.shields.io/badge/-PS5-white?style=flat&logo=Playstation&logoColor=003791)
+![ROG Ally](https://img.shields.io/badge/-ROG_Ally-white?style=flat&logo=republicofgamers&logoColor=FF0029)
 
 Also have these consoles:
 ![WiiU](https://img.shields.io/badge/-Wii_U-white?style=flat&logo=WiiU&logoColor=blue)
