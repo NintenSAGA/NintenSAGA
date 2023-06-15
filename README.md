@@ -82,15 +82,15 @@ C++                                        █░░░░░░░░░░░�
 ### 🎧 Audio
 
 ![Astell & Kern A&norma SR25](https://img.shields.io/badge/-Astell&Kern_A&norma_SR25-84E6F8?style=flat)
-![xDuoo](https://img.shields.io/badge/-xDuoo_XD05_Bal-grey?style=flat)
+![xDuoo](https://img.shields.io/badge/-xDuoo_XD05_Bal-white?style=flat)
 
-![IER-M9](https://img.shields.io/badge/-IER--M9-grey?style=flat&logo=sony&logoColor=white)
-![T9iE](https://img.shields.io/badge/-Astell&Kern_T9iE-grey?style=flat)
+![IER-M9](https://img.shields.io/badge/-IER--M9-white?style=flat&logo=sony&logoColor=grey)
+![T9iE](https://img.shields.io/badge/-Astell&Kern_T9iE-white?style=flat)
 
-![MDR-Z1R](https://img.shields.io/badge/-MDR--Z1R-grey?style=flat&logo=sony&logoColor=white)
-![WP900](https://img.shields.io/badge/-WP900-grey?style=flat&logo=audiotechnica&logoColor=white)
+![MDR-Z1R](https://img.shields.io/badge/-MDR--Z1R-white?style=flat&logo=sony&logoColor=grey)
+![WP900](https://img.shields.io/badge/-WP900-white?style=flat&logo=audiotechnica&logoColor=grey)
 
-![hksd4](https://img.shields.io/badge/-harman/kardon_SoundStick_4-grey?style=flat)
+![hksd4](https://img.shields.io/badge/-harman/kardon_SoundStick_4-white?style=flat)
 
 ### 👾 Games
 
