@@ -47,8 +47,6 @@ C++                                        █░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
-
 <details>
 <summary><strong>My personal collections...</strong></summary>
 
@@ -110,8 +108,6 @@ Also have these consoles:
 ![PSP](https://img.shields.io/badge/-PSP-black?style=flat&logo=Playstation&logoColor=white)
 
 </details>
-
----
 
 ## 🧐 In 2023, I'm working on...
 
