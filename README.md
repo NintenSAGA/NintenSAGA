@@ -34,7 +34,7 @@ My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 February 2023 - To: 23 August 2023
+From: 23 February 2023 - To: 24 August 2023
 
 Total Time: 271 hrs 24 mins
 
