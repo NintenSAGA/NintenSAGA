@@ -34,14 +34,14 @@ My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 <!--START_SECTION:waka-->
 
 ```txt
-From: 07 June 2023 - To: 06 December 2023
+From: 08 June 2023 - To: 07 December 2023
 
-Total Time: 47 hrs 33 mins
+Total Time: 47 hrs 23 mins
 
-TypeScript                       ██████████████████▒░░░░░░   73.27 %
-Go                               ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
-Java                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.07 %
-Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.32 %
+TypeScript                       ██████████████████▒░░░░░░   73.53 %
+Go                               ███▒░░░░░░░░░░░░░░░░░░░░░   13.36 %
+Java                             ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
+Markdown                         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.30 %
 JavaScript                       ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
 ```
 
