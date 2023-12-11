@@ -30,6 +30,7 @@ My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 ![C](https://img.shields.io/badge/-DD1265?style=flat&logo=c&logoColor=white)
 ![Go](https://img.shields.io/badge/-Golang-087CFA?style=flat&logo=go&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-FDB60D?style=flat&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/-TypeScript-087CFA?style=flat&logo=typescript&logoColor=white)
 
 <!--START_SECTION:waka-->
 
