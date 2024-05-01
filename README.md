@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 
 ## 🤯 Salutations!
 
-### Here's a junior from Nanjing University, majoring in Software Engineering.
-
-> Now doing an internship in Alibaba.
-
-My homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
+Feel free to take a look of my _Notion_ homepage: [nintensaga.notion.site](https://nintensaga.notion.site)
 
 ## ㊙️ Something about me...
 
