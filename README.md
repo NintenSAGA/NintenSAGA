@@ -106,6 +106,10 @@ Also have these consoles:
 
 </details>
 
+## 🎓 In 2024, I'm...
+
+Just working on my senior thesis and looking forward to my whole new career starting at July. 😃
+
 ## 🧐 In 2023, I'm working on...
 
 | Course / Team                                                      | Project                                           | Brief                                                  |
