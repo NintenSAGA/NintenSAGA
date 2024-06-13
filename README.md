@@ -31,13 +31,11 @@ Feel free to take a look of my _Notion_ homepage: [nintensaga.notion.site](https
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 December 2023 - To: 08 June 2024
+From: 11 December 2023 - To: 10 June 2024
 
-Total Time: 6 mins
+Total Time: 0 secs
 
-Python                           ████████████▓░░░░░░░░░░░░   50.07 %
-GitIgnore file                   ████████████▒░░░░░░░░░░░░   49.57 %
-TypeScript                       ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
