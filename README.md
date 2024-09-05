@@ -106,7 +106,10 @@ Also have these consoles:
 
 ## 🎓 In 2024, I'm...
 
-Just working on my senior thesis and looking forward to my whole new career starting at July. 😃
+Working as a backend developer in Taobao&Tmall Group, Alibaba Group.
+
+<details>
+<summary><strong>Records back in 2022 and 2023...</strong></summary>
 
 ## 🧐 In 2023, I'm working on...
 
@@ -131,3 +134,5 @@ Just working on my senior thesis and looking forward to my whole new career star
 | `NJUCS`, **_Concurrency: Algorithms and Theories_**, Fall 2022 |                                                                                                               |                                                                                                                                                                                           |
 | `NJUCS`, **_Formal Languages and Automata_**, Fall 2022        | `Turing Machine Simulator`                                                                                    | A simulator of the Turing Machine.                                                                                                                                                        |
 | `NJUSE`, **_Compiler_**, Fall 2022                             | `Compiler Labs [8/8]`                                                                                         | A compiler that can compile the [SysY](https://gitlab.eduxiji.net/nscscc/compiler2022/-/blob/master/SysY2022%E8%AF%AD%E8%A8%80%E5%AE%9A%E4%B9%89-V1.pdf) programming language to LLVM IR. |
+
+</details>
