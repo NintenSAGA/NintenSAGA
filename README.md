@@ -31,7 +31,7 @@ Feel free to take a look of my _Notion_ homepage: [nintensaga.notion.site](https
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 June 2025 - To: 29 December 2025
+From: 02 July 2025 - To: 31 December 2025
 
 Total Time: 0 secs
 
